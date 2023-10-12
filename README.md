@@ -7,10 +7,18 @@ This project is a demo for an improvement to the the UTD Orion student dashboard
 install OCaml following [this guide](https://ocaml.org/docs/up-and-running)  
 
 install dependencies  
-`opam install dune dream dream-html`  
+
+  ``` shell
+  opam install dune dream dream-html
+  ```
 
 Clone the repo  
-`git clone https://github.com/The-MVP/dashboard_mockup.git`  
+
+  ``` shell
+  git clone https://github.com/The-MVP/dashboard_mockup.git
+  ```
+
+  
 
 build and execute  
 
