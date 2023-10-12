@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/dashboard_mockup/META"
+  "_build/install/default/lib/dashboard_mockup/dune-package"
+  "_build/install/default/lib/dashboard_mockup/opam"
+]
+bin: [
+  "_build/install/default/bin/dashboard_mockup"
+]

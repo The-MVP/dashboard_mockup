@@ -1,0 +1,4 @@
+(executable
+ (public_name dashboard_mockup)
+ (name main)
+ (libraries dashboard_mockup dream dream-html))
